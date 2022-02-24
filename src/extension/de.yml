@@ -1,0 +1,13 @@
+options:
+  locale: Sprachumgebung
+  languages: Übersetzungssprachen
+  icon: Ddict Icon
+  iconBadge: Text markieren um das Ddict Icon anzuzeigen
+  dbclick: Doppelklick auf ein Wort um es direkt zu übersetzen
+  shift: "Text markieren und \"Shift\" drücken um zu übersetzen"
+  tts: Text automatisch sprechen/TTS
+  ttsBadge: Nur für einzelne Worte, nicht für Textpassagen
+  hotkeysTranslate: "Tastenkürzel für Übersetzung"
+  hotkeysPopup: "Tastenkürzel für Popup"
+  new: Neu
+  close: Schließen

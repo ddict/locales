@@ -1,0 +1,63 @@
+home:
+  title: Home
+  1: Im Handumdrehen Wörter und Textpassagen auf Webseiten übersetzen.
+  2: Ganz einfach mit Doppelklick oder Tastenkürzel.
+  btn: Anfangen
+
+installation:
+  title: Installation
+  1: Ddict ist eine Browser Erweiterung, die auf Webseiten funktioniert.
+  2: Um anzufangen müssen Sie Ddict in Ihrem Browser installieren.
+  3: Ddict ist für die meistverwendeten Browser verfügbar.
+  btn: für
+
+about:
+  title: Über
+  1: Ddict wird entwickelt und instand gehalten von
+  2: Mein Name ist Vinh. Ich wurde in Saigon geboren und bin dort auch aufgewachsen. Ich bin ein Freelancer (Entwickler, Börsenmakler und Vater).
+  3: Ddict wurde 2011 ins Leben gerufen, als ich noch auf der Universität war. Mir bereitete die Übersetzung englischer Texte Schwierigkeiten, also entschied ich mich dazu die erste Version von Ddict zu entwickeln. Auf dem Firefox Browser als Add-on veröffentlicht, erlaubte Ddict mir Texte auf Webseiten direkt zu übersetzen.
+  4: Nach 10 Jahren hat Ddict nun { users } monatliche Nutzer aus aller Welt.
+
+roadmaps:
+  title: Entwicklungsplan
+  1: Ddict wird schon von Ihnen verwendet, aber es könnte noch besser sein.
+  2: „Das Ziel ist es die Ddict Erfahrung auf alle Geräte zu bringen und Sprachbarrieren zu überwinden.
+  3: Um dies zu verwirklichen ist Ihre Unterstützung willkommen.
+  steps:
+    1: "Ddict Erweiterung auf Google Chrome."
+    2: "Die Unterstützung von zusätzlichen Browsern: Firefox, Opera, Safari, Edge…"
+    3: "Ddict Vorleser und die Unterstützung gängiger Formate: PDF, docx, epub…"
+    4: "iOS und Android Apps: die Ddict Erfahrung auf Ihrem Mobiltelefon."
+  btn: 'Ddict fördern'
+
+donation:
+  title: Spende
+  bank:
+    title: Bankverbindung
+    name: Name der Bank
+    branch: Zweigstelle
+    swift: SWIFT‐Code
+    accountNumber: Kontonummer
+    accountName: Kontenbezeichnung
+
+footer:
+  1: Entwickelt und instand gehalten von
+  2: mit
+  3: Seit
+  products: Produkte
+  about: Über
+  contact: Kontakt
+  privacy: Datenschutzerklärung
+
+badge:
+  new: Neu
+  soon: Demnächst
+
+update:
+  title: Aktuelles Update
+  1: "Einstellungen: Neue Optik."
+  2: "Popup: Neue Optik."
+  3: "Popup Tastenkürzel"
+  4: "Translate Tastenkürzel"
+  5: "Bereinigung geringfügiger Bugs."
+  6: Vorlesen, Übersetzen und Speicherung von PDF Dokumenten und Büchern. Die Unterstützung weiterer Formate (epub, docx…). 

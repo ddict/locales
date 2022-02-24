@@ -1,0 +1,13 @@
+options:
+  locale: Locale
+  languages: Translation Languagues
+  icon: Ddict Icon
+  iconBadge: There will be a Ddict Icon when you select text
+  dbclick: Double click on word to translate
+  shift: "Select text then press \"Shift\" button to translate"
+  tts: Auto pronounce/TTS
+  ttsBadge: Only for word/dictionary not for sentences
+  hotkeysTranslate: "Hotkeys for translate"
+  hotkeysPopup: "Hotkeys for Popup"
+  new: New
+  close: Close

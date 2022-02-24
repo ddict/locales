@@ -1,0 +1,13 @@
+options:
+  locale: Ngôn ngữ
+  languages: Ngôn ngữ dịch
+  icon: Ddict Icon
+  iconBadge: Sẽ có biểu tượng Ddict khi bạn chọn văn bản
+  dbclick: Nhấp đúp vào từ để dịch
+  shift: "Chọn văn bản rồi nhấn nút \"Shift\" để dịch"
+  tts: Tự động phát âm/TTS
+  ttsBadge: Chỉ cho từ/từ điển không cho câu
+  hotkeysTranslate: "Phím tắt dịch"
+  hotkeysPopup: "Phím tắt Popup"
+  new: Mới
+  close: Đóng

@@ -1,0 +1,63 @@
+home:
+  title: Trang chủ
+  1: Nhanh chóng dịch ngay các câu văn và tra các từ trên trang web.
+  2: Chỉ bằng một cú nhấp chuột hoặc một phím bấm.
+  btn: Bắt đầu
+
+installation:
+  title: Cài đặt
+  1: Ddict Extension là một tiện ích mở rộng của trình duyệt hoạt động trực tiếp trên các trang web.
+  2: Để bắt đầu bạn cần cài đặt Ddict trên cửa hàng ứng dụng.
+  3: Ddict có sẵn cho một số trình duyệt được sử dụng rộng rãi nhất
+  btn: dành cho
+
+about:
+  title: Về Ddict
+  1: Ddict được phát triển và duy trì bởi
+  2: Tôi tên là Vinh, sinh ra và lớn lên tại Sài Gòn. Tôi là một freelancer (developer, options trader, father)
+  3: Ddict được tạo vào năm 2011 khi tôi còn học Đại học, tôi đã gặp khó khăn trong việc dịch các tài liệu tiếng Anh, vì vậy tôi quyết định tạo phiên bản đầu tiên của Ddict là một Add-on của Firefox cho phép tôi dịch trực tiếp trên bất kỳ trang web nào.
+  4: Sau 10 năm, giờ đây Ddict đã có { users } người dùng hàng tháng trên toàn thế giới.
+
+roadmaps:
+  title: Lộ trình
+  1: Ddict đã được các bạn tin tưởng và sử dụng, nhưng Ddict có thể trở nên tốt hơn thế nữa.
+  2: "Mang lại trải nghiệm Ddict cho tất cả mọi thứ: từ các thiết bị đến các loại văn bản và xóa ranh giới ngôn ngữ cho mọi người là Mục tiêu của tôi."
+  3: Để điều đó trở thành sự thật, sự hỗ trợ của các bạn rất được trân trọng.
+  steps:
+    1: "Ddict Extension: Google Chrome."
+    2: "Hỗ trợ thêm nhiều trình duyệt: Firefox, Opera, Safari, Edge..."
+    3: "Ddict Reader: hỗ trợ thêm các loại văn bản: PDF, docx, epub..."
+    4: "iOS và Android Apps: mang lại trải nghiệm Ddict cho điện thoại của bạn."
+  btn: 'Hỗ trợ Ddict'
+
+donation:
+  title: Quyên góp
+  bank:
+    title: Tài khoản Ngân hàng
+    name: Tên Ngân hàng
+    branch: Chi nhánh
+    swift: Mã Swift
+    accountNumber: Số tài khoản
+    accountName: Tên tài khoản
+
+footer:
+  1: Được phát triển và duy trì bởi
+  2: với
+  3: Từ năm
+  products: Sản phẩm
+  about: Về Ddict
+  contact: Liên hệ
+  privacy: Chích sách bảo mật
+
+badge:
+  new: Mới
+  soon: Sớm
+
+update:
+  title: Cập nhật mới
+  1: "Options: Giao diện mới."
+  2: "Popup: Giao diện mới."
+  3: "Popup Hotkeys:"
+  4: "Dịch Hotkeys:"
+  5: "Sửa một số lỗi nhỏ."
+  6: Đọc, Dịch và lưu trữ văn bản, sách PDF. Nhiều định dạng khác sẽ được hỗ trợ trong tương lai gần (epub, docx...)

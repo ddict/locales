@@ -1,0 +1,63 @@
+home:
+  title: Home
+  1: Instantly translate sentences and look up words on website.
+  2: Just by a mouse click or a keypress.
+  btn: Get started
+
+installation:
+  title: Installation
+  1: Ddict Extension is a browser extension which works directly on websites.
+  2: To get started you need to install Ddict on your browser app store.
+  3: Ddict is available for several of the most widely used browsers
+  btn: for
+
+about:
+  title: About
+  1: Ddict is developed and maintained by
+  2: My name is Vinh, born and raised in Saigon. I am a freelancer (developer, options trader, father)
+  3: Ddict is created on 2011 when I was in College, I was struggling with translating English documents, so I decided to create the first version of Ddict which is a Firefox Add-on that allows me to translate directly on any websites.
+  4: After 10 years, now Ddict has { users } monthly users all over the World.
+
+roadmaps:
+  title: Roadmaps
+  1: Ddict is already trusted and used by you, but Ddict can be even better.
+  2: "Bringing the Ddict experience to everything: from devices to text formats and removing language barriers for everyone is my Goal."
+  3: To make that comes true, your support is highly appreciated.
+  steps:
+    1: "Ddict Extension: Google Chrome."
+    2: "Support more browsers: Firefox, Opera, Safari, Edge..."
+    3: "Ddict Reader: support more formats: PDF, docx, epub..."
+    4: "iOS and Android Apps: bring Ddict experience to your phone."
+  btn: 'Support Ddict'
+
+donation:
+  title: Donation
+  bank:
+    title: Bank Account
+    name: Bank name
+    branch: Branch
+    swift: Swift Code
+    accountNumber: Account number
+    accountName: Account name
+
+footer:
+  1: Developed and maintained by
+  2: with
+  3: Since
+  products: Products
+  about: About
+  contact: Contact
+  privacy: Privacy policy
+
+badge:
+  new: New
+  soon: Soon
+
+update:
+  title: New Update
+  1: "Options: New Look."
+  2: "Popup: New Look."
+  3: "Popup Hotkeys:"
+  4: "Translate Hotkeys:"
+  5: "Fix some minor bugs."
+  6: Read, translate and store PDF documents, books. More formats will be supported soon (epub, docx...)

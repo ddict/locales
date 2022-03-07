@@ -55,9 +55,9 @@ badge:
 
 update:
   title: Cập nhật mới
-  1: "Options: Giao diện mới."
-  2: "Popup: Giao diện mới."
-  3: "Popup Hotkeys:"
-  4: "Dịch Hotkeys:"
-  5: "Sửa một số lỗi nhỏ."
-  6: Đọc, Dịch và lưu trữ văn bản, sách PDF. Nhiều định dạng khác sẽ được hỗ trợ trong tương lai gần (epub, docx...)
+  1: Thay đổi Phím tắt Ddict thành
+  2: Phím tắt Popup
+  3: Popup bây giờ có thể mở ra thành cửa sổ riêng.
+  4: "Hỗ trợ thêm cho Ddict: Reader."
+  reader: Hỗ trợ định dạng Epub, bạn có thể đọc, dịch, lưu trữ sách epub. Docx và nhiều định dạng khác sẽ được bổ sung thêm.
+  firefox: Ddict đã có mặt trên

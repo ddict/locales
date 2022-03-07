@@ -55,9 +55,9 @@ badge:
 
 update:
   title: New Update
-  1: "Options: New Look."
-  2: "Popup: New Look."
-  3: "Popup Hotkeys:"
-  4: "Translate Hotkeys:"
-  5: "Fix some minor bugs."
-  6: Read, translate and store PDF documents, books. More formats will be supported soon (epub, docx...)
+  1: Switch Translate Shortcut to
+  2: Popup Shortcut
+  3: Popup is now detachable.
+  4: "Add more support to Ddict: Reader."
+  reader: Add Epub format, you can read, translate and store your epub books. Docx and more formats are coming soon.
+  firefox: Ddict is now available on

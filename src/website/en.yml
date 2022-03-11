@@ -1,33 +1,33 @@
 home:
   title: Home
-  1: Instantly translate sentences and look up words on website.
-  2: Just by a mouse click or a keypress.
-  btn: Get started
+  1: Instant translation of phrases and words on a web page.
+  2: Works by mouse click or keystroke.
+  btn: Just try it
 
 installation:
   title: Installation
-  1: Ddict Extension is a browser extension which works directly on websites.
-  2: To get started you need to install Ddict on your browser app store.
-  3: Ddict is available for several of the most widely used browsers
-  btn: for
+  1: Ddict is a simple and convenient extension that runs directly on an open page.
+  2: You can install Ddict from your browser extensions store.
+  3: Today Ddict is available almost for all popular browsers.
 
 about:
   title: About
   1: Ddict is developed and maintained by
-  2: My name is Vinh, born and raised in Saigon. I am a freelancer (developer, options trader, father)
-  3: Ddict is created on 2011 when I was in College, I was struggling with translating English documents, so I decided to create the first version of Ddict which is a Firefox Add-on that allows me to translate directly on any websites.
-  4: After 10 years, now Ddict has { users } monthly users all over the World.
+  2: My name is Vinh, I was born and raised in Saigon, and now I am a freelancer (developer, options trader, father).
+  3: I began working on Ddict  when I was in college. It was 2011. English texts seemed too difficult for me, so I made a simple translator for Firefox.
+  4: After 10 years, Ddict has about { users } active users per month.
 
 roadmaps:
   title: Roadmaps
-  1: Ddict is already trusted and used by you, but Ddict can be even better.
-  2: "Bringing the Ddict experience to everything: from devices to text formats and removing language barriers for everyone is my Goal."
-  3: To make that comes true, your support is highly appreciated.
+  1: Many users trust Ddict and use it every day, but I know it could be much better.
+  2: "I would like Ddict to be available on all types of devices and work with all text formats. The language barriers will be erase."
+  3: But I need your support to make my dream come true.
+
   steps:
     1: "Ddict Extension: Google Chrome."
-    2: "Support more browsers: Firefox, Opera, Safari, Edge..."
-    3: "Ddict Reader: support more formats: PDF, docx, epub..."
-    4: "iOS and Android Apps: bring Ddict experience to your phone."
+    2: "Ьore browsers: Firefox, Opera, Safari, Edge, etc."
+    3: "Ddict Reader and more formats: PDF, docx, epub, etc."
+    4: "Apps for iOS and Androids: the same experience on your smartphone."
   btn: 'Support Ddict'
 
 donation:
